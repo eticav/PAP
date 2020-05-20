@@ -1,0 +1,4 @@
+name = "Application"
+uuid = "d1bcdcbb-b58b-44cf-8a3d-a37e00c78bcf"
+authors = ["eticav "]
+version = "0.1.0"

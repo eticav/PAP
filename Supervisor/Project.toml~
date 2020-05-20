@@ -1,0 +1,7 @@
+name = "Supervisor"
+uuid = "eb3d31ba-f93a-4069-af64-cd5bb71d1333"
+authors = ["eticav "]
+version = "0.1.0"
+
+[deps]
+Agent = "4c31e6f9-885d-4aee-a681-6b4e05282fcb"
