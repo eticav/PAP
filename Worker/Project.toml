@@ -1,8 +1,0 @@
-name = "Worker"
-uuid = "655db25b-9ae7-400f-9973-4e00b121a7f7"
-authors = ["eticav "]
-version = "0.1.0"
-
-[deps]
-Agent = "4c31e6f9-885d-4aee-a681-6b4e05282fcb"
-Msg = "0e9ea63c-f6d8-4474-8eed-ffc225877095"

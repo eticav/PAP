@@ -1,5 +1,5 @@
 module PongServer
-using Worker
+using PAP.Worker
 
 struct Ping
     Ping()=new()

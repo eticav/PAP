@@ -1,7 +1,0 @@
-name = "Msg"
-uuid = "0e9ea63c-f6d8-4474-8eed-ffc225877095"
-authors = ["eticav "]
-version = "0.1.0"
-
-[deps]
-Msg = "0e9ea63c-f6d8-4474-8eed-ffc225877095"

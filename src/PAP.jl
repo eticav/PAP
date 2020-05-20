@@ -1,8 +1,10 @@
 module PAP
-export plus
 
-using Supervisor
-
-plus(a,b)=Supervisor.plus(a,b)
+include("Msg.jl")
+include("Agent.jl")
+include("Worker.jl")
+include("RegistryService.jl")
+include("Supervisor.jl")
+include("Application.jl")
 
 end

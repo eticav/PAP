@@ -1,5 +1,5 @@
 module PongApp
-using Application
+using PAP.Application
 
 using ..PongServer
 using ..PongSup

@@ -1,5 +1,5 @@
 module PongSup
-using Supervisor
+using PAP.Supervisor
 
 using ..PongServer
 
