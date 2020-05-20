@@ -118,11 +118,13 @@ uuid = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"
 deps = ["Agent", "Msg","Worker"]
 uuid = "15e4fe7e-97e9-46cc-94d8-65f8ded1ecf1"
 path = "RegistryService"
+version = "0.1.0"
 
 [[Worker]]
 deps = ["Msg"]
 uuid = "655db25b-9ae7-400f-9973-4e00b121a7f7"
 path = "Worker"
+version = "0.1.0"
 
 [[Application]]
 deps = ["Msg", "Supervisor", "Agent",  "RegistryService"]
